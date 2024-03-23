@@ -1,2 +1,7 @@
 # adam_exmp
-Exmpale_class_4_adaM
+
+A Very Small Link Site 3 AdaM MY SoN
+
+Responsive sitE
+
+Css fleX
